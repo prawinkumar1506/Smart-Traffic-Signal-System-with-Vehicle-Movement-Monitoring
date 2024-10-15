@@ -73,7 +73,7 @@ The project consists of several main functions:
 3. **Servo Motor Control**: Simulates a toll gate, opening and closing depending on the light and vehicle movement.
 4. **Buzzer Alerts**: Generates warning and danger sounds based on the distance and current light status.
 
-For detailed code, refer to the `SmartTrafficSignal.ino` file.
+For detailed code, refer to the `Project.ino` file.
 
 ## Future Enhancements
 
